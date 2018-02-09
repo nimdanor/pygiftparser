@@ -1,4 +1,8 @@
 # pygiftparser
+
+This forked from mtommasi/pygiftparser  used if your when to export to PremierLangage project files.
+
+
 [Gift](http://microformats.org/wiki/gift) parser in python with HTML generation. 
 
 [![Build Status](https://travis-ci.org/mtommasi/pygiftparser.svg?branch=master)](https://travis-ci.org/mtommasi/pygiftparser)
